@@ -1,5 +1,4 @@
-# LandingPage-Treino
-Landing Page Marketing Criativo
+# Landing Page Marketing Criativo
 
 Link: https://youtu.be/edDCEK5QWE8
 
