@@ -1,0 +1,46 @@
+@media (max-width: 760px) {
+  header {
+    flex-direction: column;
+  }
+
+  ul {
+    text-align: center;
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+  main {
+    flex-direction: column;
+  }
+
+  h2 {
+    margin-top: auto;
+    font-size: 3.8rem;
+  }
+
+  p {
+    margin: 0 auto;
+    width: 100%;
+  }
+
+  form {
+    margin: 0 auto;
+  }
+
+  input {
+    align-self: center;
+    width: 100%;
+  }
+
+  form [type="submit"] {
+    width: 100%;
+  }
+
+  main img {
+    display: none;
+  }
+
+  /* 595 */
+}
